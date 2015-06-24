@@ -1,13 +1,5 @@
 <?php
 return array(
-	//Mysql
-	'DB_TYPE' => 'mysql',
-	'DB_HOST' => 'www.kushao.com',
-	'DB_NAME' => 'kushao',
-	'DB_USER' => 'kushao',
-	'DB_PWD' => 'YVHmHgFjdYGE',
-	'DB_PORT' => '3306',
-	'DB_PREFIX' => 'ks_',
 
 	//分组列表
 	'MODULE_ALLOW_LIST' => array(
