@@ -1,2 +1,2 @@
 ##酷少网
-*http://www.kushao.com/
+http://www.kushao.com/
