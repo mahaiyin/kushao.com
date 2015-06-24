@@ -1,6 +1,6 @@
 <?php
 return array(
-
+	
 	//分组列表
 	'MODULE_ALLOW_LIST' => array(
 		'Home',
