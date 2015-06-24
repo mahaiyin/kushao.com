@@ -1,5 +1,5 @@
 <?php
-$exec = passthru('git pull');
+$exec = system('git pull');
 print_r($exec);
 //1
 if(version_compare(PHP_VERSION,'5.3.0','<'))  die('require PHP > 5.3.0 !');
