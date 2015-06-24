@@ -18,6 +18,6 @@ return array(
 
 	'URL_ROUTER_ON' => true,
 	'URL_ROUTE_RULES' => array(
-		array('a','Home/Index/a'),
+		array('a','Home/Index/b'),
 	),
 );
